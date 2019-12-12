@@ -1,2 +1,3 @@
 # hello-world
 My first, well, second repository really, but following the guide, so...
+I am a SQL Server DBA from somewhere in NY, but not in NYC like most people assume.  I am just as tough though!!
